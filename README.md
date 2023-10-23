@@ -19,31 +19,51 @@
 ---
 
 
-### Список уроков:
-- [#0 Введение (Introduction)](https:///8pQKDVRc0T8)
-- [#1 Базовый синтаксис и применение стилей (Base Syntax & CSS Applying)](https:///qxAnaoPI8cE)
-- [#2 Простые селекторы (Simple Selectors)](https:///vnmfn31G988)
-- [#3 Составные селекторы (Composite Selectors)](https:///fyI_K_Oya74)
-- [#4 Псевдоэлементы и псевдоклассы (Pseudo-elements & Pseudo-classes)](https:///C40ePbYJxmM)
-- [#5 Каскадность и наследование (Cascading & Inheritance)](https:///Y8UFzOoKkvQ)
-- [#6 Блочная модель и отступы (Box Model, Padding & Margin)](https:///1jvIi039-i4)
-- [#7 Позиционирование и размеры (Positioning & Sizing)](https:///iydD985acAc)
-- [#8 Единицы, переполнение и уровни элементов (Units, Overflow & z-index)](https:///pEdt0afL2-o)
-- [#9 Плавающие элементы и очистка потока (Floating Elements & Clearfix)](https:///1kZ9FTp2IiE)
-- [#10 Шрифты и текст (CSS Font & Text styles)](https:///TAB8pVUKiI4)
-- [#11 Границы и тени (Borders & Shadows)](https:///dAHu16pgBrg)
-- [#12 Скругление углов, списки и цвета (Border Radius, Lists & Colors)](https:///zaJh6CymejM)
-- [#13 Отображение элементов и вендорные префиксы (Display vs. Visibility, Vendor Prefixes)](https:///pyBjcMRLMoQ)
-- [#14 Фон (Background)](https:///5k-x7FUnDuE)
-- [#15 Градиенты (Gradients)](https:///8mzap9y6ECE)
-- [#16 Фильтры (Filters)](https:///k-qqZ7rcy-E)
-- [#17 Трансформации (Transform)](https:///vbdw3iHzkFo)
-- [#18 Плавные переходы (Transition)](https:///hwWIm6DSSoE)
-- [#19 Анимации (Animations)](https:///XG5JulRHSV8)
-- [#20 Таблицы и курсор (Tables & Cursor)](https:///Y5MwssNWetI)
-- [#21 Текстовые эффекты и многоколоночный текст (Text Effects & Multi Columns Text)](https:///6sc-gmz_MYQ)
-- [#22 Медиазапросы (Media queries)](https:///lv47xClJolw)
-- [#23 Стилизация плейсхолдера и скролла, CSS-спрайты (Placeholder, Scrollbar & Sprites)](https:///_eO1urQ71Lw)
+## What I've done
 
----
+- Manifest
+- SEO Tags
+- Minimize files for production
+- Favicon
+- Pixel Perfect
+- Clear code
+- Simple animation for buttons and accordion
+- Sprite SVG for optimisation
+- Adaptive
+- Semantic code
+- Cross browsers
+- Minimize images - saved 65% (2.4 mb total)
+- Simple accessibility - Level A
+- Fast load website - less than 400ms
+- Total website size - less than 0.5mb 
+- Import Fonts - import only used fonts
+
+## What I use
+
+- SCSS
+- HTML 
+- JavaScript
+- WebPack for optimise, run and build project
+- [Semantic Validator W3](https://validator.w3.org/)
+- [Pixel Perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+- [TinyPNG](https://tinypng.com/)
+- [Wave Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
+- [Ping Dom](https://tools.pingdom.com/)
+- [Browser ling](https://www.browserling.com/)
+- Linting
+  - ESLint
+  - HTMLHint
+  - SASS-Lint
+- Figma
+
+## What can be improved
+
+- Add more favicons for another devices
+- Add more SEO Tags 
+- Make it 1px in 1px, now the error is 5-6px
+- Sprite for PNG icons
+- Using OpenType Font Variations or SDN for current Font. If change it website will be loaded probably on 200ms
+- Improved accessibility to Level AA
+- For the underlined border on accordion, I made a regular dotted line, but the length of the stripes is slightly different.
+- Check all items on this website [frontendchecklist](https://frontendchecklist.io/)
 
